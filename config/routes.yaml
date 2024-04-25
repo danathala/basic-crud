@@ -1,0 +1,8 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+# config/routes.yaml
+
+#graph:
+#  path: /graph
+#  controller: App\Controller\GraphController::index
